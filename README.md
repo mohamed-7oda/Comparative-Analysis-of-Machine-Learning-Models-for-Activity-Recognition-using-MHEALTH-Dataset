@@ -1,1 +1,1 @@
-# Comparative-Analysis-of-Machine-Learning-Models-for-Activity-Recognition-using-MHEALTH-Dataset
+# Machine-Learning-Project-for-Activity-Recognition-using-MHEALTH-Dataset
